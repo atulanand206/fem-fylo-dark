@@ -20,6 +20,16 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 - Solution URL: [Github](https://github.com/atulanand206/fem-fylo-dark)
 - Live Site URL: [Netlify](https://fem-fylo-dark.netlify.app/)
 
+### Screenshots
+
+![desktop-1](./images/desktop-1.png)
+![desktop-2](./images/desktop-2.png)
+![desktop-3](./images/desktop-3.png)
+![mobile-1](./images/mobile-1.png)
+![mobile-2](./images/mobile-2.png)
+![mobile-3](./images/mobile-3.png)
+![mobile-4](./images/mobile-4.png)
+
 ## My process
 
 ### Built with
